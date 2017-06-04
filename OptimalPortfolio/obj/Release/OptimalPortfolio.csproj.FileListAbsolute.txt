@@ -1,0 +1,16 @@
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\bin\Release\OptimalPortfolio.exe.config
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\Interop.LCC11.dll
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.csproj.ResolveComReference.cache
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\bin\Release\OptimalPortfolio.exe
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\bin\Release\OptimalPortfolio.pdb
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.Form1.resources
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.Form3_graph.resources
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.Form4_test.resources
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.Form5_cor.resources
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.Form6_VolCap.resources
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.Form_parameter.resources
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.Properties.Resources.resources
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.csproj.GenerateResource.Cache
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.exe
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.pdb
+C:\Users\804278\Documents\Visual Studio 2013\Projects\OptimalPortfolio\OptimalPortfolio\obj\Release\OptimalPortfolio.csprojResolveAssemblyReference.cache
